@@ -10,7 +10,7 @@ public class TC001Login extends LeafTapsWrappers{
 	
 	@BeforeClass
 	public void initialize() {
-		testCaseName = "TC001Login";
+		testCaseName = "TC001LoginChange";
 		testDescription = "Login Positive";
 		category = "Smoke";
 		authors= "Sethu";
