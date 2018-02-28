@@ -15,7 +15,7 @@ public class TC001Login extends LeafTapsWrappers{
 		category = "Smoke";
 		authors= "Sethu";
 		browserName = "chrome";
-		dataSheetName ="TC001";
+		dataSheetName ="TC001change update";
 	}
 	
 	@Test(dataProvider="fetchData")
